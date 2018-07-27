@@ -1,0 +1,52 @@
+Manifest-Version: 1.0
+Export-Package: org.springframework.core;version="3.0.0.M3";uses:="org
+ .springframework.asm,org.springframework.util",org.springframework.co
+ re.annotation;version="3.0.0.M3",org.springframework.core.convert;ver
+ sion="3.0.0.M3";uses:="org.springframework.core",org.springframework.
+ core.convert.converter;version="3.0.0.M3",org.springframework.core.co
+ nvert.service;version="3.0.0.M3";uses:="org.springframework.core.conv
+ ert,org.springframework.core.convert.converter",org.springframework.c
+ ore.enums;version="3.0.0.M3",org.springframework.core.io;version="3.0
+ .0.M3",org.springframework.core.io.support;version="3.0.0.M3";uses:="
+ org.springframework.core.io,org.springframework.util",org.springframe
+ work.core.style;version="3.0.0.M3",org.springframework.core.task;vers
+ ion="3.0.0.M3",org.springframework.core.task.support;version="3.0.0.M
+ 3";uses:="org.springframework.core.task",org.springframework.core.typ
+ e;version="3.0.0.M3",org.springframework.core.type.classreading;versi
+ on="3.0.0.M3";uses:="org.springframework.asm,org.springframework.core
+ .io,org.springframework.core.type",org.springframework.core.type.filt
+ er;version="3.0.0.M3";uses:="org.springframework.core.type,org.spring
+ framework.core.type.classreading",org.springframework.util;version="3
+ .0.0.M3";uses:="org.apache.commons.logging",org.springframework.util.
+ comparator;version="3.0.0.M3",org.springframework.util.xml;version="3
+ .0.0.M3";uses:="javax.xml.namespace,javax.xml.stream,javax.xml.stream
+ .util,javax.xml.transform,org.apache.commons.logging,org.w3c.dom,org.
+ xml.sax,org.xml.sax.ext"
+Implementation-Title: org.springframework.core
+Implementation-Version: 3.0.0.M3
+Bundle-Classpath: .
+Bundle-Name: Spring Core
+Created-By: 1.6.0_07-b06-57 (Apple Inc.)
+Bundle-Vendor: SpringSource
+Ant-Version: Apache Ant 1.7.0
+Bundle-Version: 3.0.0.M3
+Bundle-ManifestVersion: 2
+Import-Package: javax.xml.namespace,javax.xml.stream;resolution:=optio
+ nal,javax.xml.stream.events;resolution:=optional,javax.xml.stream.uti
+ l;resolution:=optional,javax.xml.transform,javax.xml.transform.sax,ja
+ vax.xml.transform.stax;resolution:=optional,org.apache.commons.collec
+ tions;version="[3.2.0, 4.0.0)";resolution:=optional,org.apache.common
+ s.collections.map;version="[3.2.0, 4.0.0)";resolution:=optional,org.a
+ pache.commons.logging;version="[1.1.1, 2.0.0)",org.apache.log4j;versi
+ on="[1.2.15, 2.0.0)";resolution:=optional,org.apache.log4j.xml;versio
+ n="[1.2.15, 2.0.0)";resolution:=optional,org.aspectj.bridge;version="
+ [1.5.4, 2.0.0)";resolution:=optional,org.aspectj.weaver;version="[1.5
+ .4, 2.0.0)";resolution:=optional,org.aspectj.weaver.bcel;version="[1.
+ 5.4, 2.0.0)";resolution:=optional,org.aspectj.weaver.patterns;version
+ ="[1.5.4, 2.0.0)";resolution:=optional,org.eclipse.core.runtime;commo
+ n="split";resolution:=optional,org.springframework.asm;version="[3.0.
+ 0, 3.0.1)";resolution:=optional,org.springframework.asm.commons;versi
+ on="[3.0.0, 3.0.1)";resolution:=optional,org.w3c.dom,org.xml.sax,org.
+ xml.sax.ext,org.xml.sax.helpers
+Bundle-SymbolicName: org.springframework.core
+

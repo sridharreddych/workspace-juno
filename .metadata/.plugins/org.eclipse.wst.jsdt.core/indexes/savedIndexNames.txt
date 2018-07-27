@@ -1,0 +1,22 @@
+INDEX VERSION 1.122+F:\workspace juno\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1893939625.index
+146419360.index
+1574869715.index
+606980957.index
+511206207.index
+2770250361.index
+4282293977.index
+2586487322.index
+2202560882.index
+756835258.index
+1230310904.index
+1908238436.index
+846804191.index
+3344276933.index
+1535776665.index
+2551034677.index
+3241749141.index
+3556948987.index
+2589776712.index
+430447194.index
+3655239660.index

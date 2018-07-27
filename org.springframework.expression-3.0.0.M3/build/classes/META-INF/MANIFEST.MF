@@ -1,0 +1,31 @@
+Manifest-Version: 1.0
+Export-Package: org.springframework.expression;version="3.0.0.M3";uses
+ :="org.springframework.core.convert",org.springframework.expression.c
+ ommon;version="3.0.0.M3";uses:="org.springframework.expression",org.s
+ pringframework.expression.spel;version="3.0.0.M3";uses:="org.springfr
+ amework.core.convert,org.springframework.expression",org.springframew
+ ork.expression.spel.antlr;version="3.0.0.M3";uses:="org.antlr.runtime
+ ,org.springframework.expression",org.springframework.expression.spel.
+ ast;version="3.0.0.M3";uses:="org.antlr.runtime,org.antlr.runtime.tre
+ e,org.springframework.expression,org.springframework.expression.spel,
+ org.springframework.expression.spel.support",org.springframework.expr
+ ession.spel.generated;version="3.0.0.M3";uses:="org.antlr.runtime,org
+ .antlr.runtime.tree",org.springframework.expression.spel.support;vers
+ ion="3.0.0.M3";uses:="org.springframework.core.convert,org.springfram
+ ework.expression,org.springframework.expression.spel"
+Implementation-Title: org.springframework.expression
+Implementation-Version: 3.0.0.M3
+Bundle-Classpath: .
+Bundle-Name: Spring Expression Language
+Created-By: 1.6.0_07-b06-57 (Apple Inc.)
+Bundle-Vendor: SpringSource
+Ant-Version: Apache Ant 1.7.0
+Bundle-Version: 3.0.0.M3
+Bundle-ManifestVersion: 2
+Import-Package: org.antlr.runtime;version="[3.0.1,4.0.0)",org.antlr.ru
+ ntime.tree;version="[3.0.1,4.0.0)",org.springframework.core;version="
+ [3.0.0, 3.0.1)",org.springframework.core.convert;version="[3.0.0, 3.0
+ .1)",org.springframework.core.convert.service;version="[3.0.0, 3.0.1)
+ ",org.springframework.util;version="[3.0.0, 3.0.1)"
+Bundle-SymbolicName: org.springframework.expression
+

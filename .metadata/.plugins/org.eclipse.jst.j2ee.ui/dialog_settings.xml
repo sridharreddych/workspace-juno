@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="J2EE_EXPORT_OVERWRITE"/>
+	<item value="true" key="J2EE_EXPORT_SOURCE"/>
+	<list key="J2EE_IMPORT_null">
+		<item value="F:\source code\SpringExample15.war"/>
+		<item value="F:\source code\SpringExample16.war"/>
+		<item value="F:\source code\SpringExample5.war"/>
+		<item value="F:\source code\SpringExample13.war"/>
+		<item value="F:\source code\SpringExample8.war"/>
+		<item value="F:\source code\SpringExample10.war"/>
+	</list>
+	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="C:\Program Files\Apache Software Foundation\Tomcat 7.0\webapps\HelloWeb.war"/>
+		<item value="C:\Users\Sridhar reddy\HelloWeb.war"/>
+		<item value="F:\tomcat_workspace\HelloWeb.war"/>
+		<item value="F:\tomcat_workspace\SpringMVCFormHandling.war"/>
+	</list>
+	<list key="MRU_RUNTIME_STORE">
+		<item value="Apache Tomcat v7.0"/>
+		<item value="NULL_RUNTIME"/>
+	</list>
+</section>
